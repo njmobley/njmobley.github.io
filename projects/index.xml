@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects on Student Statistician</title>
+    <link>http://njmobley.github.io/projects/</link>
+    <description>Recent content in Projects on Student Statistician</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en</language>
+    
+	<atom:link href="http://njmobley.github.io/projects/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Linear Models Project</title>
+      <link>http://njmobley.github.io/projects/kki/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://njmobley.github.io/projects/kki/</guid>
+      <description>This project was for my S431 Linear Models course. In this project my team was given a data set from the Kennedy Krieger Institute that contained information on their social scores, motor skills and if they had a diagnosided social disorder.</description>
+    </item>
+    
+    <item>
+      <title>Spotify analytics Data Analysis</title>
+      <link>http://njmobley.github.io/projects/spotify/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://njmobley.github.io/projects/spotify/</guid>
+      <description>This project was a look at creating a model that will determine the popularity of a song based off of it&amp;rsquo;s different attributes. The features of thes songs were plucked from the Spotify API and then merged with a track popularity ranking.</description>
+    </item>
+    
+  </channel>
+</rss>
