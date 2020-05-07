@@ -1,6 +1,6 @@
 @charset "UTF-8";
 html {
-  background-color: #fff;
+  background-color: #f4dada;
   -webkit-font-smoothing: antialiased;
 }
 
@@ -17,7 +17,7 @@ body {
   font-size: 15px;
   width: 100%;
   margin: 0 auto 30px auto;
-  background-color: #fff;
+  background-color: #f4dada;
 }
 
 p {
@@ -33,7 +33,7 @@ a {
 .category {
   padding: 4px 6px;
   border-radius: 3px;
-  color: #fff;
+  color: #f4dada;
   background-color: #f9f9fd;
   border: 1px solid #f2f2f2;
 }
@@ -51,7 +51,7 @@ a {
 }
 
 pre {
-  background-color: #f9f9fd;
+  background-color: #f4dada;
   padding: 5px;
   display: block;
   overflow-x: auto;
@@ -69,11 +69,11 @@ a:link, a:visited {
   -o-transition: all .15s linear;
   -ms-transition: all .15s linear;
   transition: all .15s linear;
-  color: #424242;
+  color: #beebe9;
 }
 
 a:hover, a:active {
-  color: #4786D6;
+  color: #beebe9;
 }
 
 /*basic styles ends*/
@@ -159,9 +159,9 @@ a:hover, a:active {
   position: fixed;
   right: 0;
   z-index: 3;
-  background-color: #fff;
+  background-color: #f4dada;
   height: 68px;
-  border-bottom: 2px solid #f2f2f2;
+  border-bottom: 2px solid #beebe9;
 }
 .page-top .nav {
   list-style: none;
@@ -178,7 +178,7 @@ a:hover, a:active {
   color: #5A5A5A;
 }
 .page-top .nav a:hover {
-  color: #4786D6;
+  color: #beebe9;
 }
 .page-top .nav a.current {
   color: #5A5A5A;
@@ -212,7 +212,7 @@ a:hover, a:active {
   width: 20%;
   -webkit-background-size: cover;
   background-size: cover;
-  background-color: #fff;
+  background-color: #f4dada;
   height: 100%;
   transition: 0.8s;
   top: 0;
@@ -268,7 +268,7 @@ a:hover, a:active {
 }
 
 .post {
-  background-color: #FFF;
+  background-color: #f4dada;
   margin: 30px;
 }
 .post .post-title h1 {
@@ -441,7 +441,7 @@ a:hover, a:active {
   position: absolute;
   width: 100%;
   padding-bottom: 20px;
-  background: #fff;
+  background: #f4dada;
 }
 .footer a {
   color: #A6A6A6;
